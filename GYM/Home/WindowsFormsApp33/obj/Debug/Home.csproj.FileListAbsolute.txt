@@ -1,0 +1,36 @@
+C:\Users\deela\source\repos\WindowsFormsApp33\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe.config
+C:\Users\deela\source\repos\WindowsFormsApp33\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe
+C:\Users\deela\source\repos\WindowsFormsApp33\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.pdb
+C:\Users\deela\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\Home.csprojAssemblyReference.cache
+C:\Users\deela\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Form1.resources
+C:\Users\deela\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Properties.Resources.resources
+C:\Users\deela\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Users\deela\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.exe
+C:\Users\deela\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.pdb
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe.config
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.pdb
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\obj\Debug\Home.csprojAssemblyReference.cache
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Form1.resources
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Properties.Resources.resources
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.exe
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.pdb
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\obj\Debug\Home.csproj.CopyComplete
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\Equipments.exe
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\Equipments.pdb
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\Equipments.exe.config
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\GymManagement.exe
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\GymManagement.pdb
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\GymManagement.exe.config
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\GYM STAFF.exe
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\GYM STAFF.pdb
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\GYM STAFF.exe.config
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\payment.exe
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\payment.pdb
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\payment.exe.config
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\Gym Management System.exe
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\Gym Management System.pdb
+C:\Users\lasal\Desktop\GYM\Home\WindowsFormsApp33\bin\Debug\Gym Management System.exe.config

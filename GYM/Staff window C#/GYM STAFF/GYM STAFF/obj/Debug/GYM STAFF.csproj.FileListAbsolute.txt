@@ -1,0 +1,28 @@
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\bin\Debug\GYM STAFF.exe.config
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\bin\Debug\GYM STAFF.exe
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\bin\Debug\GYM STAFF.pdb
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\obj\Debug\GYM STAFF.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\obj\Debug\GYM_STAFF.Add_Staff.resources
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\obj\Debug\GYM_STAFF.Delete_Staff.resources
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\obj\Debug\GYM_STAFF.Form1.resources
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\obj\Debug\GYM_STAFF.Properties.Resources.resources
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\obj\Debug\GYM_STAFF.Update_Staff.resources
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\obj\Debug\GYM_STAFF.View_Staff.resources
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\obj\Debug\GYM STAFF.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\obj\Debug\GYM STAFF.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\obj\Debug\GYM STAFF.exe
+C:\Users\Dell\Desktop\C#  gym project\GYM STAFF\GYM STAFF\obj\Debug\GYM STAFF.pdb
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\bin\Debug\GYM STAFF.exe.config
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\bin\Debug\GYM STAFF.exe
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\bin\Debug\GYM STAFF.pdb
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\obj\Debug\GYM STAFF.csprojAssemblyReference.cache
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\obj\Debug\GYM_STAFF.Add_Staff.resources
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\obj\Debug\GYM_STAFF.Delete_Staff.resources
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\obj\Debug\GYM_STAFF.Form1.resources
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\obj\Debug\GYM_STAFF.Properties.Resources.resources
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\obj\Debug\GYM_STAFF.Update_Staff.resources
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\obj\Debug\GYM_STAFF.View_Staff.resources
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\obj\Debug\GYM STAFF.csproj.GenerateResource.cache
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\obj\Debug\GYM STAFF.csproj.CoreCompileInputs.cache
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\obj\Debug\GYM STAFF.exe
+C:\Users\lasal\Desktop\GYM\Staff window C#\GYM STAFF\GYM STAFF\obj\Debug\GYM STAFF.pdb

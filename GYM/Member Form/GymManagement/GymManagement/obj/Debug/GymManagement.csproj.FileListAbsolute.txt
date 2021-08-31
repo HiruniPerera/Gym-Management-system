@@ -1,0 +1,27 @@
+C:\Users\deela\source\repos\GymManagement\GymManagement\bin\Debug\GymManagement.exe.config
+C:\Users\deela\source\repos\GymManagement\GymManagement\bin\Debug\GymManagement.exe
+C:\Users\deela\source\repos\GymManagement\GymManagement\bin\Debug\GymManagement.pdb
+C:\Users\deela\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.csprojAssemblyReference.cache
+C:\Users\deela\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.Form1.resources
+C:\Users\deela\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.Properties.Resources.resources
+C:\Users\deela\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.GenerateResource.cache
+C:\Users\deela\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.exe
+C:\Users\deela\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.pdb
+C:\Users\deela\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.NewMemberHomePage.resources
+C:\Users\deela\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.Update.resources
+C:\Users\deela\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.Delete.resources
+C:\Users\deela\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.Search.resources
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\bin\Debug\GymManagement.exe.config
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\bin\Debug\GymManagement.exe
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\bin\Debug\GymManagement.pdb
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\obj\Debug\GymManagement.csprojAssemblyReference.cache
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\obj\Debug\GymManagement.Delete.resources
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\obj\Debug\GymManagement.Form1.resources
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\obj\Debug\GymManagement.NewMemberHomePage.resources
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\obj\Debug\GymManagement.Properties.Resources.resources
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\obj\Debug\GymManagement.Search.resources
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\obj\Debug\GymManagement.Update.resources
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.GenerateResource.cache
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.CoreCompileInputs.cache
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\obj\Debug\GymManagement.exe
+C:\Users\lasal\Desktop\GYM\Member Form\GymManagement\GymManagement\obj\Debug\GymManagement.pdb

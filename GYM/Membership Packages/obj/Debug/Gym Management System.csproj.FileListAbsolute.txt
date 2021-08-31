@@ -1,0 +1,23 @@
+C:\Users\lasal\source\repos\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\Users\lasal\source\repos\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+C:\Users\lasal\source\repos\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\Users\lasal\source\repos\Gym Management System\Gym Management System\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\lasal\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csprojAssemblyReference.cache
+C:\Users\lasal\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\lasal\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\lasal\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\lasal\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CopyComplete
+C:\Users\lasal\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+C:\Users\lasal\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\Users\lasal\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Formz.resources
+C:\Users\lasal\Desktop\GYM\Membership Packages\bin\Debug\Gym Management System.exe.config
+C:\Users\lasal\Desktop\GYM\Membership Packages\bin\Debug\Gym Management System.exe
+C:\Users\lasal\Desktop\GYM\Membership Packages\bin\Debug\Gym Management System.pdb
+C:\Users\lasal\Desktop\GYM\Membership Packages\obj\Debug\Gym Management System.csprojAssemblyReference.cache
+C:\Users\lasal\Desktop\GYM\Membership Packages\obj\Debug\Gym_Management_System.Formz.resources
+C:\Users\lasal\Desktop\GYM\Membership Packages\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\lasal\Desktop\GYM\Membership Packages\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\lasal\Desktop\GYM\Membership Packages\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\lasal\Desktop\GYM\Membership Packages\obj\Debug\Gym Management System.csproj.CopyComplete
+C:\Users\lasal\Desktop\GYM\Membership Packages\obj\Debug\Gym Management System.exe
+C:\Users\lasal\Desktop\GYM\Membership Packages\obj\Debug\Gym Management System.pdb

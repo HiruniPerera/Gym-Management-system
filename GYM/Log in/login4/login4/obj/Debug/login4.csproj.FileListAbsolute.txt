@@ -1,0 +1,49 @@
+E:\loginproject\login4\login4\bin\Debug\login4.exe.config
+E:\loginproject\login4\login4\bin\Debug\login4.exe
+E:\loginproject\login4\login4\bin\Debug\login4.pdb
+E:\loginproject\login4\login4\obj\Debug\login4.csprojAssemblyReference.cache
+E:\loginproject\login4\login4\obj\Debug\login4.Form1.resources
+E:\loginproject\login4\login4\obj\Debug\login4.Properties.Resources.resources
+E:\loginproject\login4\login4\obj\Debug\login4.csproj.GenerateResource.cache
+E:\loginproject\login4\login4\obj\Debug\login4.csproj.CoreCompileInputs.cache
+E:\loginproject\login4\login4\obj\Debug\login4.exe
+E:\loginproject\login4\login4\obj\Debug\login4.pdb
+E:\loginproject\login4\login4\obj\Debug\login4.Form2.resources
+E:\loginproject\login4\login4\obj\Debug\login4.Form3.resources
+E:\loginproject\login4\login4\bin\Debug\netmi.mdf
+E:\loginproject\login4\login4\bin\Debug\netmi_log.ldf
+E:\loginproject\login4\login4\obj\Debug\login4.Form4.resources
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\netmi.mdf
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\netmi_log.ldf
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\login4.exe.config
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\login4.exe
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\login4.pdb
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\WindowsFormsApp33.exe
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\Equipments.exe
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\WindowsFormsApp33.pdb
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\WindowsFormsApp33.exe.config
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\Equipments.pdb
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\Equipments.exe.config
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\obj\Debug\login4.csprojAssemblyReference.cache
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\obj\Debug\login4.Form1.resources
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\obj\Debug\login4.Form2.resources
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\obj\Debug\login4.Form3.resources
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\obj\Debug\login4.Form4.resources
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\obj\Debug\login4.Properties.Resources.resources
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\obj\Debug\login4.csproj.GenerateResource.cache
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\obj\Debug\login4.csproj.CoreCompileInputs.cache
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\obj\Debug\login4.csproj.CopyComplete
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\obj\Debug\login4.exe
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\obj\Debug\login4.pdb
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\GymManagement.exe
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\GymManagement.pdb
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\GymManagement.exe.config
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\GYM STAFF.exe
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\GYM STAFF.pdb
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\GYM STAFF.exe.config
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\payment.exe
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\payment.pdb
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\payment.exe.config
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\Gym Management System.exe
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\Gym Management System.pdb
+C:\Users\lasal\Desktop\GYM\Log in\login4\login4\bin\Debug\Gym Management System.exe.config
